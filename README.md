@@ -3,6 +3,7 @@
 ## Authors
 * Xiana Carrera Alonso
 * Aldan Creo Marino
+
 This app was developed as a course project for Distributed Systems, a master's informatics course in Università della Svizzera Italiana.
 
 ## Your go-to tool for buying and selling class notes
